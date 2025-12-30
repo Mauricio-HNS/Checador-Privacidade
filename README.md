@@ -82,6 +82,3 @@ irm https://raw.githubusercontent.com/Mauricio-HNS/pc-monitor-checker/main/windo
 ---
 
 **🛠 Desenvolvido por Destiny7 Softwares & Solutions – 2025**
-
-```
-
