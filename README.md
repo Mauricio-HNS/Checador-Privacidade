@@ -85,5 +85,3 @@ irm https://raw.githubusercontent.com/Mauricio-HNS/pc-monitor-checker/main/windo
 
 ```
 
-Se você quiser, posso **gerar a versão final com links RAW já testados**, para que qualquer pessoa copie e execute **direto do GitHub** sem erros de 404. Quer que eu faça isso agora?
-```
