@@ -1,7 +1,7 @@
-Perfeito. Aqui está uma **versão visual e limpa** do README, pronta para copiar e colar, com **tabelas, cores simbólicas e emojis** para facilitar a leitura:
+Perfeito. Aqui está o **README.md completo e atualizado** para o seu repositório `Checador-Privacidade`, pronto para copiar e colar:
 
 ````markdown
-# 🖥️ Verificador de Monitoramento de PC
+# 🖥️ Checador de Privacidade – Verificador de Monitoramento de PC
 
 Ferramenta **multiplataforma** para identificar se um computador está sendo monitorado por **perfis corporativos**, **agentes ou softwares suspeitos**, funcionando em **macOS, Linux e Windows**.
 
@@ -53,13 +53,13 @@ Ferramenta **multiplataforma** para identificar se um computador está sendo mon
 
 ### macOS
 ```bash
-curl -fsSL https://raw.githubusercontent.com/Mauricio-HNS/pc-monitor-checker/main/mac.sh | bash
+curl -fsSL https://raw.githubusercontent.com/Mauricio-HNS/Checador-Privacidade/main/mac.sh | bash
 ````
 
 ### Linux
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/Mauricio-HNS/pc-monitor-checker/main/linux.sh | bash
+curl -fsSL https://raw.githubusercontent.com/Mauricio-HNS/Checador-Privacidade/main/linux.sh | bash
 ```
 
 ### Windows (PowerShell)
@@ -67,7 +67,7 @@ curl -fsSL https://raw.githubusercontent.com/Mauricio-HNS/pc-monitor-checker/mai
 Abra o PowerShell como Administrador e execute:
 
 ```powershell
-irm https://raw.githubusercontent.com/Mauricio-HNS/pc-monitor-checker/main/windows.ps1 | iex
+irm https://raw.githubusercontent.com/Mauricio-HNS/Checador-Privacidade/main/windows.ps1 | iex
 ```
 
 ---
