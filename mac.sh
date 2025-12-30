@@ -7,11 +7,12 @@ else
   echo "✅ Sem MDM"
 fi
 
-echo "LaunchDaemons:"
+echo "LaunchDaemons count:"
 ls /Library/LaunchDaemons 2>/dev/null | wc -l
 
-echo "Conexões ativas:"
+echo "Conexões estabelecidas:"
 lsof -i -n | grep ESTABLISHED | wc -l
-profiles list
-launchctl list
-lsof -i -n | grep ESTABLISHED
+
+echo "Processos suspeitos:"
+ps aux | grep -iE "mdm|monitor|agent|sentinel|jamf"
+echo "=== Fim do relatório ==="
