@@ -1,3 +1,4 @@
+Copie um dos códigos de acordo com o seu sistema operacional e cole no Terminal em seguida de Enter
 # PC Monitor Checker
 
 ## macOS
